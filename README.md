@@ -10,4 +10,3 @@ This project shows the following achievements:
 - **Font Design**: Shown in `styles.css`, I used different colors for the background and text
 
 
-
